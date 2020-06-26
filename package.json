@@ -1,0 +1,21 @@
+{
+  "name": "vue-weblineindia-url",
+  "version": "1.0.0",
+  "description": "A Vue Url component is provide to add url (like instagramUrl,facebookUrl,webUrl, ..) with validation",
+  "main": "./lib/url.vue",
+  "author": "weblineindia",
+  "license": "MLT",
+  "repository": "https://github.com/weblineindia/Vue-URL-Component",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "vue-weblineindia-url",
+    "url",
+    "vue components",
+    "vuejs",
+    "vuejs component"
+  ],
+  "dependencies": {
+    "vuelidate": "^0.7.5",
+    "vee-validate": "2.2.15"
+}
+}
