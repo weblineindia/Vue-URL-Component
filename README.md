@@ -1,4 +1,4 @@
-# Vue-url-component
+# VueJS URL Component
 
 A Vue Url component is provide to add url (like instagramUrl,facebookUrl,webUrl, ..) with validation.
 The Url value is automatically validated on blur event.
